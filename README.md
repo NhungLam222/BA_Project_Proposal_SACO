@@ -1,5 +1,5 @@
 # Project_Proposal_SACO
-Business Analysis case study for SACO IT SME - BA Intern application
+Business Analysis project for SACO IT SME - BA Intern application
 
 ---1. Overview
 This project is a case study for a Business Analyst (BA) internship at VNG. It analyzes the information systems of SACO, a small IT SME in Ho Chi Minh City, using SWOT analysis to identify gaps and proposes two solutions (Zoho One and Microsoft Integration) to drive digital transformation, reduce costs, and enhance scalability.
