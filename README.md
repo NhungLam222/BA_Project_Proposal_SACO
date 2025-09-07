@@ -1,4 +1,4 @@
-# Project_Proposal_SACO
+# Project_SACO
 Business Analysis project for SACO IT SME - BA Intern application
 
 ---1. Overview
