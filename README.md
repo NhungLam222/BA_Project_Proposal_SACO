@@ -1,4 +1,4 @@
-# SACO_BA_Case_Study
+# Project_Proposal_SACO
 Business Analysis case study for SACO IT SME - BA Intern application
 
 ---1. Overview
