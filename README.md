@@ -1,6 +1,4 @@
 # Project_SACO
-Business Analysis project for SACO IT SMEs - BA Intern application
-
 ## Overview
 This project analyzes the information systems of SACO, a small IT SME in Ho Chi Minh City, using SWOT analysis to identify gaps and proposes two solutions (Zoho One and Microsoft Integration) to drive digital transformation, reduce costs, and enhance scalability.
 
@@ -20,7 +18,7 @@ Impact: Zoho One enables 20% revenue growth via market expansion.
 - Requirement gathering: Stakeholder interviews & system evaluation.
 - Solution validation: Comparing Zoho vs. Microsoft for SACO needs.
 - Documentation: Detailed 12-week Agile plan.
-- Alignment with VNG: Support PM in cloud/ERP projects (e.g., VNG Cloud for SMEs).
+- Alignment with VNG: Support PM in cloud/ERP projects.
 
 ## How to View
 Download BA_SACO_Presentation.pdf for the full project.
